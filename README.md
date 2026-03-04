@@ -12,6 +12,9 @@
 2. Palaid Python vidē
 3. Ievadi prasītos datus
 
+# License:
+MIT
+
 ## Autors
 Ariels Cisers
 2026
