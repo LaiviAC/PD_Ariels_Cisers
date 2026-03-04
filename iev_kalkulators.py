@@ -1,12 +1,12 @@
 # Programmas kods
 
-Calc():
+Calc(Sugar):
 #...
 
-Izmaksa():
+Izmaksa(Sugar_price):
 #...
 
-Jam():
+Jam(Jam_mass):
 #...
 
 a = float(input("Lūdzu, ievadi ābolu svaru:")
